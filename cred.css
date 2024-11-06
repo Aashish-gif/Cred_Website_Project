@@ -1,0 +1,128 @@
+body{
+    background-color: black;
+}
+#top{
+    display: flex;
+}
+#logo{
+    margin-top: 80px;
+    margin-left: 100px;
+}
+#maintext1{
+    margin-top: 100px;
+    color: white;
+    text-align: center;
+    font-size:75px;
+}
+#maintext2{
+    margin-top:-25px;
+    color: white;
+    text-align:center;
+    font-size:75px;
+}
+#smalltext1{
+    margin-top:20px;
+    color: white;
+    text-align:center;
+}
+#smalltext2{
+    color: white;
+    text-align:center;
+}
+#line{
+    margin-left:-120px;
+    margin-top:500px;
+    color: white;
+    text-align:center;
+    font-size:35px;
+}
+#about{
+    margin-top:50px;
+    margin-left:-200px;
+    text-align: center;
+    color: white;
+  font-size: 50px;
+}
+#phoneui{
+margin-left: 585px;
+    margin-top:100px;
+}
+#midtext1{
+    color: white;
+    margin-left: 744px;
+    margin-top:60px;
+    font-size:75px;
+}
+#midtext2{
+    color: white;
+    margin-left: 810px;
+    font-size:75px;
+    margin-top:-50px;
+}
+#mid1{
+    color: white;
+    margin-left:875px;
+    font-size: large;
+}
+#mid2{
+    color: white;
+    margin-left:885px;
+    font-size: large;
+}
+#card{
+display: flex;
+justify-content: flex-end;
+margin-top: 340px;
+}
+#cardt1{
+    color: white;
+    font-size:75px;
+    margin-left:163px;
+    margin-top:-400px;
+}
+#cardt2{
+    color: white;
+    font-size:75px;
+    margin-left:167px;
+    margin-top: -50px;
+}
+#credit1{
+    color: darkgrey;
+    font-size:22px;
+    margin-left:167px;
+    margin-top:-30px;
+}
+#credit2{
+    color: darkgrey;
+    font-size:22px;
+    margin-left:167px;
+}
+#credit3{
+    color: darkgrey;
+    font-size:22px;
+    margin-left:167px;
+  
+}
+#productst1{
+    margin-top:400px;
+    color: white;
+    font-size:75px;
+    margin-left:163px;
+}
+#productst2{
+    color: white;
+    font-size:75px;
+    margin-left:167px;
+    margin-top:-50px;
+}
+#ani1{
+   color:white; 
+margin-left: 200px;
+font-size: 75px;
+margin-top:500px;
+}
+#ani2{
+    color:white; 
+    margin-left: 200px;
+    font-size: 75px;
+ }
